@@ -1,0 +1,115 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "template.json",
+    "expandedProjectPaths": [
+        "maps"
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "main#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "main#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "main#misc": {
+            "scaleInDock": 1
+        },
+        "maps/main.json": {
+            "scale": 2.5706,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": -89.86228895977592,
+                "y": 65.54889908970668
+            }
+        },
+        "maps/moe.json#General": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/moe.json#Utils": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/moe.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/template.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInEditor": 1
+        },
+        "maps/template.json#mapUtilities": {
+            "scaleInEditor": 1
+        },
+        "maps/test.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/test.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/test.json#misc": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "moe.json": {
+            "scale": 4.1934,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 246.57795583536034,
+                "y": 178.61401249582678
+            }
+        },
+        "moe.json#General": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "moe.json#Utils": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "moe.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "template.json": {
+            "scale": 0.9325,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 244.5040214477212,
+                "y": -350.1340482573727
+            }
+        },
+        "template.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "template.json#mapUtilities": {
+            "scaleInDock": 3.4562
+        },
+        "template.json#misc": {
+            "scaleInDock": 1
+        }
+    },
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "template.json",
+        "moe.json"
+    ],
+    "project": "a.tiled-project",
+    "recentFiles": [
+        "maps/test.json",
+        "maps/moe.json",
+        "maps/main.json",
+        "moe.json",
+        "template.json",
+        "main"
+    ],
+    "tileset.embedInMap": true
+}
